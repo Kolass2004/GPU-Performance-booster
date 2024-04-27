@@ -1,9 +1,4 @@
-# This file will be read by resetprop
-# Example: Change dpi
-# ro.sf.lcd_density=320
 
-
-#performance
 persist.sys.ui.hw=1
 ro.config.enable.hw_accel=true
 ro.product.gpu.driver=1
